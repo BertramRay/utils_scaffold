@@ -61,7 +61,6 @@ python main.py
 ### OpenAI API 转发
 
 - `POST /api/openai/chat/completions` - 转发请求到 OpenAI 的 chat/completions API
-- `POST /api/openai/completions` - 转发请求到 OpenAI 的 completions API
 
 ## 使用方法
 
